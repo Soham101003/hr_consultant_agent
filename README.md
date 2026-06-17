@@ -250,15 +250,6 @@ I --> J
 # 📂 Dataset
 
 The project uses a sample consultant dataset:
-
-| Consultant | Rating | Consultations/Week |
-| ---------- | ------ | ------------------ |
-| HR01       | 2.5    | 60                 |
-| HR02       | 5.0    | 20                 |
-| HR03       | 4.5    | 30                 |
-| HR04       | 3.0    | 50                 |
-| HR05       | 4.0    | 20                 |
-
 Each consultant record contains:
 
 * Consultant ID
